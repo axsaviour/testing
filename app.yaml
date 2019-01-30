@@ -1,6 +1,6 @@
 runtime: php72
 
 handlers:
-- url: /.*
+- url: auto
   script: helloworld.php
   
