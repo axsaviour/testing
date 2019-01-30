@@ -1,6 +1,2 @@
 runtime: php72
 
-handlers:
-- url: auto
-  script: helloworld.php
-  
